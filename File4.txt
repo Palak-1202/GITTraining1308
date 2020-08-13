@@ -1,2 +1,4 @@
 new file in feature4 branch.
 Adding a new line.
+
+Adding a new Change - feature6.
